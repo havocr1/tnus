@@ -3,7 +3,7 @@
 # havocr1/tnus
 tahoe nsp updater super for [Skyline](https://github.com/skyline-emu/skyline)
 
-**Consider starring 🌟 the project if it helped**
+**Consider not starring 🌟 the project**
 
 </div align="center">
 
@@ -35,7 +35,7 @@ Precompiled binaries are available from the [GitHub releases page](https://githu
 1. Download & Install `Termux` from [F-droid](https://f-droid.org/en/packages/com.termux/).
 2. Copy-paste the following in `Termux` and hit enter:
   ```console
-  pkg upgrade -y && pkg in clang make binutils git -y && curl -sLo "$PATH/yanu" https://github.com/nozwock/tnus/releases/latest/download/tnus-aarch64-linux-android && chmod +x "$PATH/tnus" && termux-setup-storage && echo -e "\e[;92mInstalled tnus successfully\nRun it by typing in\n\e[0m\e[;96myanu\e[0m" || echo -e "\e[;91mInstallation failed\e[0m"
+  pkg upgrade -y && pkg in clang make binutils git -y && curl -sLo "$PATH/tnus" https://github.com/nozwock/tnus/releases/latest/download/tnus-aarch64-linux-android && chmod +x "$PATH/tnus" && termux-setup-storage && echo -e "\e[;92mInstalled tnus successfully\nRun it by typing in\n\e[0m\e[;96myanu\e[0m" || echo -e "\e[;91mInstallation failed\e[0m"
   ```
 
 > MiXplorer [XDA Forum](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/)</br>
