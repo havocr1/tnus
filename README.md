@@ -81,5 +81,5 @@ tnus config --roms-dir /new/path/here
 
 ---
 
-Credits to [hacshit](https://github.com/SciresM/hactool) and [hac](https://github.com/The-4n/hacPack).</br>
-Used [Willfaust's script](https://gist.github.com/willfaust/fb90dec409b8918290012031f09a78ef) for reference.
+Credits to [hacshit](https://github.com/SciresM/hactool) and [hacrap](https://github.com/The-4n/hacPack).</br>
+Used [Willshit script](https://gist.github.com/willfaust/fb90dec409b8918290012031f09a78ef) for reference.
